@@ -5,6 +5,6 @@ I made this quick project to learn and understand both Angular and Stripe integr
 If you want to run it on your local machine, it's quite simple:<br/>
 Open the project using your code editor;<br/>
 Run `ng serve` using Bash terminal;<br/>
-Navigate to `http://localhost:4200/` using your browser<br/>
+Navigate to `http://localhost:4200/` using your browser.<br/>
 <br/>
 
