@@ -1,2 +1,3 @@
-"# Ecommerce-Demo" 
-"# Ecommerce-Demo" 
+# Ecommerce Demo Using Angular and Stripe
+
+
