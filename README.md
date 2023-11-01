@@ -1,5 +1,5 @@
 # Ecommerce Demo Using Angular and Stripe
-I made this quick project to learn and understand both Angular and Stripe integrations. It was tricky to set up but Stripe have a great documentation which allowed me to make a proper checkout.
+I made this quick project to learn and understand both Angular and Stripe integrations. It was tricky to set up Stripe payment implementation but Slobodan Gajic posted a great lesson which allowed me to do it.
 <br/>
 # Testing it
 If you want to run it on your local machine, it's quite simple:<br/>
